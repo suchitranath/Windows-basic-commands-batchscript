@@ -87,7 +87,7 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT
-![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/bbfdf048-d358-4f79-8ed5-d421cde8ae50)
+![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/883ac6ab-5021-4076-9f71-ffc641d9e5f0)
 
 
 
