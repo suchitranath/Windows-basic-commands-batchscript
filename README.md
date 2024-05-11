@@ -59,11 +59,13 @@ copy MyFile.txt %userprofile%\Desktop\Backup
 ![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/553ed90c-9e84-4f6f-9b84-2b59db4aaa09)
 
 Move the "MyLab" directory to the "Documents" folder.
+![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/d042d933-7e21-42d6-a031-a81a04513d00)
 
 
 ## COMMAND AND OUTPUT
 mv Myfile.txt %userprofile%\Documents
 ![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/67837965-d7cf-40dc-aa57-94cc53b6e68f)
+![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/d0220814-b0d3-425e-bb5a-3e1e350edfc1)
 
 
 ## Exercise 2: Advanced Batch Scripting
