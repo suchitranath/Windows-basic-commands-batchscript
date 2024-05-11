@@ -40,7 +40,6 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 cd %userprofile%\Desktop\MyLab
 ![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/630d8c45-4dbc-409a-8d52-fb0c1f9f8fb1)
 
-![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/8ab63ec0-6846-4e89-abee-7d8128230e1a)
 
 
 List the contents of the "MyLab" directory.
