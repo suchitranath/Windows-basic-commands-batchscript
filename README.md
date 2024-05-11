@@ -60,10 +60,10 @@ copy MyFile.txt %userprofile%\Desktop\Backup
 
 Move the "MyLab" directory to the "Documents" folder.
 ![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/d042d933-7e21-42d6-a031-a81a04513d00)
-
-
-## COMMAND AND OUTPUT
 mv Myfile.txt %userprofile%\Documents
+
+
+
 
 ![image](https://github.com/suchitranath/Windows-basic-commands-batchscript/assets/145742631/d0220814-b0d3-425e-bb5a-3e1e350edfc1)
 
